@@ -1,0 +1,14 @@
+.bk{
+    background: rgb(105,215,150);
+background: linear-gradient(90deg, rgba(105,215,150,1) 0%, rgba(168,214,183,0.9726015406162465) 100%);
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.ht{
+    height: 250px;
+}
